@@ -1,4 +1,4 @@
-﻿{3399FF}MM Editor {EEEE00}v2.1 (Green)
+﻿{3399FF}MM Editor {EEEE00}v2.1.1 (Green)
 {3399FF}Разработчики скрипта: Memento Mori и Igor Novikov
 {3399FF}Спасибо за тестирование и помощь, Emily Lutes!
 
