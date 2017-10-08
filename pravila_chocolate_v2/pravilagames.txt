@@ -9,6 +9,7 @@
 {FF8C00}Победители:{3399FF} James Fabretti, Danik Krutalevich, Fin Fish, Bernardo Benassi,Waka
 Fladerano, Lennox Louis, Tony Orama, Jason Bernardo, Arman Andrias, Fausto Fabretty.
 {EEEE00}Призы закончились! Все победители получили по 25.000$!
+{808080}Ответы на игру можно найти на форуме в теме со скриптом.
 
 {FFFFFF}Прочитать правила игры: {FF8C00}/games
 {FFFFFF}Начать игру: {FF8C00}/games go
