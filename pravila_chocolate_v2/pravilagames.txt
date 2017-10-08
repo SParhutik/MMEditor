@@ -7,7 +7,7 @@
 учитывается регистр букв. Могут быть задержки!
 
 {FF8C00}Победители:{3399FF} James Fabretti, Danik Krutalevich, Fin Fish, Bernardo Benassi,
-Waka Fladerano, Lennox Louis, Tony Oraman, Jason Bernardo, Arman Andrias, Fausto Fabretty.
+Waka Fladerano, Lennox Louis, Tony Orama, Jason Bernardo, Arman Andrias, Fausto Fabretty.
 {EEEE00}Призы закончились!
 
 {FFFFFF}Прочитать правила игры: {FF8C00}/games
